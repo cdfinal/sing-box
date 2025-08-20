@@ -1,5 +1,14 @@
 # 介绍
+考虑到可能会发生不可描述的事情，你可以将 sing-box 脚本脚本写入一下以防止万一。
 
+Github地址：https://github.com/233boy/sing-box
+
+你可以叉一下，如果本人一键删库跑路了，你也可以照样正常安装使用
+
+安装命令如下：
+
+wget https://github.com/233boy/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+请记住将安装命令中的233boy更改更改为您的 Github 用户名
 最好用的 sing-box 一键安装脚本 & 管理脚本
 
 # 特点
