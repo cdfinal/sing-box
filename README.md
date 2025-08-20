@@ -6,6 +6,8 @@ Github地址：https://github.com/233boy/sing-box
 你可以叉一下，如果本人一键删库跑路了，你也可以照样正常安装使用
 
 安装命令如下：
+wget https://github.com/233boy/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+
 
 wget https://github.com/233boy/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
 请记住将安装命令中的233boy更改更改为您的 Github 用户名
